@@ -1,0 +1,3 @@
+include ':upilibrary'
+include ':app'
+rootProject.name = "UPI Integration"
